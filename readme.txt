@@ -24,7 +24,8 @@ Code for your application, link in git, or a package of your code I can open and
 
 
 HOW TO RUN THE CODE
-I'm using flask to test the connectivity of my pages, but im sure you can just look at the html in browser.
+I'm using flask to test the connectivity of my pages, but im sure you can just look at the html in browser if the following set of instructions
+does not work.
 
 //Referenced from my classmates' documentation for our main class project, DnDEZ
 Dependencies
