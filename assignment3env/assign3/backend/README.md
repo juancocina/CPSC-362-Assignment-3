@@ -1,20 +1,17 @@
-# Shopping Cart  
-A simple E-commerce website using Flask.
+# Thank you to Joshua Nathan for this README #
+A simple website using Flask.
+Modified to fit this assignment...
 
-Project designed to be ran in ubuntu 20.04 or greater. 
-  
+Project designed to be ran in ubuntu 20.04 or greater.
+
 ## Dependencies ##
 1. Python3.6 or greater
 2. Everything in "requirements.txt"
-3. Sqlite3 apt package 
-```bash
-sudo apt-get install sqlite3
-```
 
 ## How to run ##
 This portion is best set up using python venvs
 
-Make sure you have pip3 installed and the python3 venv module installed 
+Make sure you have pip3 installed and the python3 venv module installed
 
 ```bash
 sudo apt install python3-pip
@@ -37,7 +34,7 @@ To enable your python virtual environment cd into the projectfoldername and use:
 source bin/activate
 ```
 
-Your shell should now indicate your env setting being the project 
+Your shell should now indicate your env setting being the project
 
 You can now install dependencies with pip by navigating to the same directory and requirements.txt and running:
 
@@ -51,6 +48,5 @@ To deactivate the virtual environment issue the command:
 deactivate
 ```
 
-1. Set up database by running python3 database.py
-2. Run python3 main.py
-3. Enter localhost:5000 in the browser.
+1. Run python3 main.py
+2. Enter localhost:5000 in the browser.
