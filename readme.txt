@@ -42,3 +42,12 @@ How to run:
 You should now be able to access the app on http://localhost:5000
 
 This is the way I've managed to get it to run on my system, professor if my documentation is unclear, please let me know.
+
+
+//TO DO LIST
+- Make the home page "prettier"
+- Attach a javascript file to my login page to store user informaton
+- create a create an account page if user doesn't have an account
+- link login and create an account page
+- begin creating modules for the different services: 1 restaurants, 2.menus, 3. discount codes...
+- create and attach database
