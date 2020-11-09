@@ -1,4 +1,3 @@
-# Thank you to Joshua Nathan for this README #
 A simple website using Flask.
 Modified to fit this assignment...
 
