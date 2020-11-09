@@ -26,4 +26,18 @@ Code for your application, link in git, or a package of your code I can open and
 HOW TO RUN THE CODE
 I'm using flask to test the connectivity of my pages, but im sure you can just look at the html in browser.
 
-//to do
+//Referenced from my classmates documentation - Joshua Nathan...
+Dependencies 
+ - linux command line
+ - python3.8 or greater
+
+How to run:
+    Navigate to /CPSC-362-Assignment-3/assignment3env
+    Command line type: source bin/activate
+    navigate to /assign3/backend/
+    make sure everything in reqiurements.txt is installed
+    command line type: python3 main.py
+    
+You should now be able to access the app on http://localhost:5000
+
+This is the way i've managed to get it to run on my system, professor if my documentation is unclear, please let me know.
