@@ -20,3 +20,10 @@ Begin coding your application using the design you’ve created to guide your im
 What should be turned in:
 A textual and diagram description of your design, citing your design techniques, you MUST map to establish design techniques covered in class or cite your sources of design.
 Code for your application, link in git, or a package of your code I can open and view.
+
+
+
+HOW TO RUN THE CODE
+I'm using flask to test the connectivity of my pages, but im sure you can just look at the html in browser.
+
+//to do
